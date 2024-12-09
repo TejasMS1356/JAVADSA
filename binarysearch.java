@@ -1,0 +1,43 @@
+import java.util.Arrays;
+import java.util.Scanner;
+public class binarysearch{
+    public static void main(String[] args) {
+        Scanner in=new Scanner(System.in);
+        System.out.print("enter the no of elements in the array: ");
+        int n1=in.nextInt();
+        int arr[]=new int[n1];
+        for(int i=0;i<n1;i++){
+            arr[i]=in.nextInt();
+        }
+        System.out.print("enter the target elemnt:  ");
+        int tar=in.nextInt();
+    
+    
+    int ans=bin(arr,tar);
+    
+    System.out.println(ans);
+    }
+    static int bin(int[] arr,int tar){
+        int s=0;
+        int e=arr.length-1;
+        while(s<=e)  {
+        int  m=(e+s)/2;
+        if(arr[m]==tar){
+            return m;
+        }
+        else if(arr[m]<tar){
+            s=m+1;
+        }
+            else{
+                e=m-1;
+
+            }
+        }
+      return -1;
+
+
+        }
+        }
+
+    
+
