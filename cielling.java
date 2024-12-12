@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class cielling{
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
-        System.out.println("enter the no of elements: ");
+        System.out.print("enter the no of elements: ");
         int n1=in.nextInt();
         int[] arr=new int[n1];
         for(int j=0;j<n1;j++){
