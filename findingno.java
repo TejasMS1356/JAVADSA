@@ -1,33 +1,29 @@
-import java.util.Arrays;
-
-public class findingno{
-    public static void main(String[] args) {
-        int[] arr={4,3,2,7,8,2,3,1};
+class Solution {
+    public List<Integer> findDisappearedNumbers(int[] nums) {
         int i=0;
-       int  n=arr.length;
-        while (i<arr.length) {
-            int correctindex=arr[i]-1;   
-            if( arr[i]!=arr[correctindex]){
-                int temp=arr[i];
-                arr[i]=arr[correctindex];
-                arr[correctindex]=temp;
+        while(i<nums.length){
+            int ci=nums[i]-1;
+            if(nums[i]!=nums[ci]){
+                swap(nums,i,ci);
+                
+
             }
             else{
                 i++;
             }
- }
-        int[] a=res(arr,n);
-        System.out.println(Arrays.toString(a));
-        System.out.println(Arrays.toString(arr));
-     }
-     public static int[] res(int[] arr,int n){
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]!=i+1){
-                return new int[]{i+1,i+2};
+        }
+        List<Integer> ans=new ArrayList<>();
+        for(int ind=0;ind<nums.length;ind++){
+            if(nums[ind]!=ind+1){
+                ans.add(ind+1);
             }
+        }
+        return ans;
+        
     }
-                   return new int[]{};
-
-  
-}
+   void swap(int[] nums,int i,int ci){
+        int temp=nums[i];
+        nums[i]=nums[ci];
+        nums[ci]=temp;
+    }
 }
