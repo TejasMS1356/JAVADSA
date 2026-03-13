@@ -15,15 +15,15 @@ public class infinite {
         System.out.println(an);
     }
     static int ans(int[] arr,int tar){
-        //to find the range(start and end) where the target is present
+      
       
         int b=0;
         int e=1;
-        //target is always greater than end element
+     
         while(tar>arr[e]){
             int ns=e+1;
-            e=e+(e-b+1)*2;//doubling the size of the array
-            b=ns;//new begging
+            e=e+(e-b+1)*2;
+            b=ns;
 
         }
         return bin(arr,tar,b,e);
