@@ -1,76 +1,50 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
+        int s=0;
+        int e=nums.length-1;
+        int a=left(nums,target,s,e);
+        int b=right( nums, target, s,e);
+        return new int[]{a, b};
+
         
-        int[] fin=new int[2];
-        int ans1 = bin(nums, target);
-        int ans2=left(nums, target);
-        fin[0] = ans1;
-        fin[1] = ans2;
-       
-        return fin;
     }
-         static int bin(int[] nums, int target) {
-        int x=-1;
-
-
-        int b = 0;
-
-        int e = nums.length - 1;
-        while (b <= e) {
-            int m = b + (e - b) / 2;
-            if (nums[m] == target) {
-                x= m;
+    static int left(int[] nums,int target,int s,int e){
+        int r=-1;
+        while(s<=e){
+            int m=s+(e-s)/2;
+            if(nums[m]==target){
+                r=m;
                 e=m-1;
 
             }
-
-
-           else if (nums[m] > target) {
-                e = m - 1;
-
-
-            } else if (nums[m] < target) {
-                b = m + 1;
-
-            } else{
-                x=-1;
-                }//potential answer is found
-
-
+           else if(target<nums[m]){
+                e=m-1;
+            }
+            else{
+                s=m+1;
+            }
         }
-        return x;
+        return r;
+       
     }
-     static int left(int[] nums, int target) {
-        int y=-1;
-
-
-        int b = 0;
-
-        int e = nums.length - 1;
-        while (b <= e) {
-            int m = b + (e - b) / 2;
-            if (nums[m] == target) {
-                y = m;
-                b = m + 1;
+    static int right(int[] nums,int target,int s,int e){
+        int r=-1;
+        while(s<=e){
+            int m=s+(e-s)/2;
+            if(nums[m]==target){
+                r=m;
+                s=m+1;
 
             }
-
-
-           else if (nums[m] > target) {
-                e = m - 1;
-
-
-            } else if (nums[m] < target) {
-                b = m + 1;
-
-            } 
-            //potential answer is found
+           else if(target<nums[m]){
+                e=m-1;
+            }
+            else{
+                s=m+1;
+            }
         }
-        return y;
+        return r;
+       
     }
-        
-    }
-    
-   
-    
 
+}
