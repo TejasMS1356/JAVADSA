@@ -1,21 +1,20 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
         ArrayList<Integer> numbers = new ArrayList<>();
-        for(int i=0;i<nums.length-1;i++){
-            for(int j=0;j<nums.length-i-1;j++){
-                if(nums[j]>nums[j+1]){
-                    int temp=nums[j];
-                    nums[j]=nums[j+1];
-                    nums[j+1]=temp;
-                }
+        int count=0;
+        int count1=0;
+        for(int i=0;i<nums.length;i++){
+            if(target>nums[i]){
+                count++;
+            }
+           else if(target==nums[i]){
+                count1++;
             }
         }
-            for(int i=0;i<nums.length;i++){
-                if(nums[i]==target){
-                    numbers.add(i);
-                }
-            }
+        for(int j=count;j<=count+count1-1;j++){
+            numbers.add(j);
+        }
+return numbers;
         
-        return numbers;
     }
 }
