@@ -16,8 +16,8 @@ class Solution {
            
            
         }
-        int dis=Math.abs(countl-countr)+count;
-        return dis;
+        int dist=Math.abs(countl-countr)+count;
+        return dist;
         
     }
 }
