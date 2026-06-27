@@ -10,8 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TejasMS1356/JAVADSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TejasMS1356/JAVADSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TejasMS1356/JAVADSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TejasMS1356/JAVADSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 <!---LeetCode Topics End-->
