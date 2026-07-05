@@ -19,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TejasMS1356/JAVADSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TejasMS1356/JAVADSA/tree/master/0268-missing-number) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TejasMS1356/JAVADSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TejasMS1356/JAVADSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TejasMS1356/JAVADSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## String
 |  |
