@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3527-find-the-most-common-response](https://github.com/TejasMS1356/JAVADSA/tree/master/3527-find-the-most-common-response) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/TejasMS1356/JAVADSA/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
