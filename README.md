@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TejasMS1356/JAVADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0268-missing-number](https://github.com/TejasMS1356/JAVADSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/TejasMS1356/JAVADSA/tree/master/0496-next-greater-element-i) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TejasMS1356/JAVADSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/TejasMS1356/JAVADSA/tree/master/2942-find-words-containing-character) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TejasMS1356/JAVADSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/TejasMS1356/JAVADSA/tree/master/0496-next-greater-element-i) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/TejasMS1356/JAVADSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TejasMS1356/JAVADSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3527-find-the-most-common-response](https://github.com/TejasMS1356/JAVADSA/tree/master/3527-find-the-most-common-response) |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/TejasMS1356/JAVADSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/TejasMS1356/JAVADSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/TejasMS1356/JAVADSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
