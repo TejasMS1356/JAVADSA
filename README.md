@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TejasMS1356/JAVADSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0844-backspace-string-compare](https://github.com/TejasMS1356/JAVADSA/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TejasMS1356/JAVADSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/TejasMS1356/JAVADSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/TejasMS1356/JAVADSA/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TejasMS1356/JAVADSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/TejasMS1356/JAVADSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/TejasMS1356/JAVADSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TejasMS1356/JAVADSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/TejasMS1356/JAVADSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2942-find-words-containing-character](https://github.com/TejasMS1356/JAVADSA/tree/master/2942-find-words-containing-character) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TejasMS1356/JAVADSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/TejasMS1356/JAVADSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/TejasMS1356/JAVADSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TejasMS1356/JAVADSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
