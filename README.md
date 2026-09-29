@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/TejasMS1356/JAVADSA/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/TejasMS1356/JAVADSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3527-find-the-most-common-response](https://github.com/TejasMS1356/JAVADSA/tree/master/3527-find-the-most-common-response) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/TejasMS1356/JAVADSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/TejasMS1356/JAVADSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TejasMS1356/JAVADSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3527-find-the-most-common-response](https://github.com/TejasMS1356/JAVADSA/tree/master/3527-find-the-most-common-response) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/TejasMS1356/JAVADSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/TejasMS1356/JAVADSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3527-find-the-most-common-response](https://github.com/TejasMS1356/JAVADSA/tree/master/3527-find-the-most-common-response) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/TejasMS1356/JAVADSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
