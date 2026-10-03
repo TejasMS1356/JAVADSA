@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TejasMS1356/JAVADSA/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TejasMS1356/JAVADSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/TejasMS1356/JAVADSA/tree/master/2460-apply-operations-to-an-array) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TejasMS1356/JAVADSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TejasMS1356/JAVADSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/TejasMS1356/JAVADSA/tree/master/2460-apply-operations-to-an-array) |
 | [2942-find-words-containing-character](https://github.com/TejasMS1356/JAVADSA/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TejasMS1356/JAVADSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TejasMS1356/JAVADSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TejasMS1356/JAVADSA/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TejasMS1356/JAVADSA/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/TejasMS1356/JAVADSA/tree/master/2460-apply-operations-to-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/TejasMS1356/JAVADSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
