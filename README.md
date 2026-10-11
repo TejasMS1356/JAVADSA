@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TejasMS1356/JAVADSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/TejasMS1356/JAVADSA/tree/master/2460-apply-operations-to-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TejasMS1356/JAVADSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/TejasMS1356/JAVADSA/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TejasMS1356/JAVADSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TejasMS1356/JAVADSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TejasMS1356/JAVADSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TejasMS1356/JAVADSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
