@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TejasMS1356/JAVADSA/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TejasMS1356/JAVADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TejasMS1356/JAVADSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/TejasMS1356/JAVADSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/TejasMS1356/JAVADSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/TejasMS1356/JAVADSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/TejasMS1356/JAVADSA/tree/master/0682-baseball-game) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TejasMS1356/JAVADSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TejasMS1356/JAVADSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/TejasMS1356/JAVADSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/TejasMS1356/JAVADSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -203,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/TejasMS1356/JAVADSA/tree/master/0881-boats-to-save-people) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TejasMS1356/JAVADSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TejasMS1356/JAVADSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
