@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/TejasMS1356/JAVADSA/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/TejasMS1356/JAVADSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TejasMS1356/JAVADSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TejasMS1356/JAVADSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TejasMS1356/JAVADSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/TejasMS1356/JAVADSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TejasMS1356/JAVADSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TejasMS1356/JAVADSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TejasMS1356/JAVADSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
