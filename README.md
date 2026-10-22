@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TejasMS1356/JAVADSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/TejasMS1356/JAVADSA/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TejasMS1356/JAVADSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TejasMS1356/JAVADSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/TejasMS1356/JAVADSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2942-find-words-containing-character](https://github.com/TejasMS1356/JAVADSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/TejasMS1356/JAVADSA/tree/master/3110-score-of-a-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/TejasMS1356/JAVADSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/TejasMS1356/JAVADSA/tree/master/0904-fruit-into-baskets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/TejasMS1356/JAVADSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TejasMS1356/JAVADSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/TejasMS1356/JAVADSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TejasMS1356/JAVADSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TejasMS1356/JAVADSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TejasMS1356/JAVADSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3527-find-the-most-common-response](https://github.com/TejasMS1356/JAVADSA/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/TejasMS1356/JAVADSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/TejasMS1356/JAVADSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/TejasMS1356/JAVADSA/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TejasMS1356/JAVADSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TejasMS1356/JAVADSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TejasMS1356/JAVADSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TejasMS1356/JAVADSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
