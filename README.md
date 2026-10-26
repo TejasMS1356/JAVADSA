@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/TejasMS1356/JAVADSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TejasMS1356/JAVADSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/TejasMS1356/JAVADSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2460-apply-operations-to-an-array](https://github.com/TejasMS1356/JAVADSA/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TejasMS1356/JAVADSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TejasMS1356/JAVADSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/TejasMS1356/JAVADSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TejasMS1356/JAVADSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/TejasMS1356/JAVADSA/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/TejasMS1356/JAVADSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TejasMS1356/JAVADSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TejasMS1356/JAVADSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TejasMS1356/JAVADSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/TejasMS1356/JAVADSA/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TejasMS1356/JAVADSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TejasMS1356/JAVADSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/TejasMS1356/JAVADSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TejasMS1356/JAVADSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TejasMS1356/JAVADSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TejasMS1356/JAVADSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
