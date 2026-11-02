@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/TejasMS1356/JAVADSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/TejasMS1356/JAVADSA/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TejasMS1356/JAVADSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/TejasMS1356/JAVADSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TejasMS1356/JAVADSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TejasMS1356/JAVADSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TejasMS1356/JAVADSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/TejasMS1356/JAVADSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TejasMS1356/JAVADSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TejasMS1356/JAVADSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/TejasMS1356/JAVADSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TejasMS1356/JAVADSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TejasMS1356/JAVADSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/TejasMS1356/JAVADSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
