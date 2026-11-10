@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/TejasMS1356/JAVADSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TejasMS1356/JAVADSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/TejasMS1356/JAVADSA/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/TejasMS1356/JAVADSA/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TejasMS1356/JAVADSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TejasMS1356/JAVADSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TejasMS1356/JAVADSA/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -275,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TejasMS1356/JAVADSA/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/TejasMS1356/JAVADSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
