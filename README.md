@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TejasMS1356/JAVADSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TejasMS1356/JAVADSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/TejasMS1356/JAVADSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TejasMS1356/JAVADSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/TejasMS1356/JAVADSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TejasMS1356/JAVADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0152-maximum-product-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
