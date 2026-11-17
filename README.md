@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/TejasMS1356/JAVADSA/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/TejasMS1356/JAVADSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/TejasMS1356/JAVADSA/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/TejasMS1356/JAVADSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/TejasMS1356/JAVADSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TejasMS1356/JAVADSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -175,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/TejasMS1356/JAVADSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/TejasMS1356/JAVADSA/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TejasMS1356/JAVADSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/TejasMS1356/JAVADSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TejasMS1356/JAVADSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TejasMS1356/JAVADSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/TejasMS1356/JAVADSA/tree/master/0203-remove-linked-list-elements) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
