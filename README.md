@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TejasMS1356/JAVADSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TejasMS1356/JAVADSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/TejasMS1356/JAVADSA/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/TejasMS1356/JAVADSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/TejasMS1356/JAVADSA/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TejasMS1356/JAVADSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/TejasMS1356/JAVADSA/tree/master/3110-score-of-a-string) |
