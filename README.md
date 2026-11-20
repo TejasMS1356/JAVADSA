@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/TejasMS1356/JAVADSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2460-apply-operations-to-an-array](https://github.com/TejasMS1356/JAVADSA/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TejasMS1356/JAVADSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2574-left-and-right-sum-differences](https://github.com/TejasMS1356/JAVADSA/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TejasMS1356/JAVADSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/TejasMS1356/JAVADSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/TejasMS1356/JAVADSA/tree/master/2942-find-words-containing-character) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TejasMS1356/JAVADSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/TejasMS1356/JAVADSA/tree/master/0713-subarray-product-less-than-k) |
+| [2574-left-and-right-sum-differences](https://github.com/TejasMS1356/JAVADSA/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TejasMS1356/JAVADSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
