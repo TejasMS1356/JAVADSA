@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TejasMS1356/JAVADSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/TejasMS1356/JAVADSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TejasMS1356/JAVADSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/TejasMS1356/JAVADSA/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/TejasMS1356/JAVADSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TejasMS1356/JAVADSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TejasMS1356/JAVADSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/TejasMS1356/JAVADSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/TejasMS1356/JAVADSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/TejasMS1356/JAVADSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/TejasMS1356/JAVADSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/TejasMS1356/JAVADSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TejasMS1356/JAVADSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TejasMS1356/JAVADSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/TejasMS1356/JAVADSA/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/TejasMS1356/JAVADSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
