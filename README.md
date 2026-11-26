@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TejasMS1356/JAVADSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TejasMS1356/JAVADSA/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/TejasMS1356/JAVADSA/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/TejasMS1356/JAVADSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TejasMS1356/JAVADSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TejasMS1356/JAVADSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TejasMS1356/JAVADSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TejasMS1356/JAVADSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/TejasMS1356/JAVADSA/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/TejasMS1356/JAVADSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TejasMS1356/JAVADSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/TejasMS1356/JAVADSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/TejasMS1356/JAVADSA/tree/master/0904-fruit-into-baskets) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TejasMS1356/JAVADSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/TejasMS1356/JAVADSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/TejasMS1356/JAVADSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/TejasMS1356/JAVADSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TejasMS1356/JAVADSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/TejasMS1356/JAVADSA/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/TejasMS1356/JAVADSA/tree/master/0881-boats-to-save-people) |
